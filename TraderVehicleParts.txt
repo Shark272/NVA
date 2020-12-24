@@ -1,0 +1,148 @@
+<VehicleParts> OffroadHatchback_NVA		// Vehicle Classname
+	SparkPlug						// Classname of Item to attach when Vehicle gets bought
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	HatchbackDoors_Driver_NVA
+	HatchbackDoors_CoDriver_NVA
+	HatchbackHood_NVA
+	HatchbackTrunk_NVA
+	HatchbackWheel
+	HatchbackWheel
+	HatchbackWheel
+	HatchbackWheel
+
+<VehicleParts> OffroadHatchback_Camo		// Vehicle Classname
+	SparkPlug						// Classname of Item to attach when Vehicle gets bought
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	HatchbackDoors_Driver_Camo
+	HatchbackDoors_CoDriver_Camo
+	HatchbackHood_Camo
+	HatchbackTrunk_Camo
+	HatchbackWheel
+	HatchbackWheel
+	HatchbackWheel
+	HatchbackWheel
+	
+<VehicleParts> OffroadHatchback_Camo_Poly		// Vehicle Classname
+	SparkPlug						// Classname of Item to attach when Vehicle gets bought
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	HatchbackDoors_Driver_Camo_Poly
+	HatchbackDoors_CoDriver_Camo_Poly
+	HatchbackHood_Camo_Poly
+	HatchbackTrunk_Camo_Poly
+	HatchbackWheel
+	HatchbackWheel
+	HatchbackWheel
+	HatchbackWheel
+
+<VehicleParts> OffroadHatchback_Splitter		// Vehicle Classname
+	SparkPlug						// Classname of Item to attach when Vehicle gets bought
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	HatchbackDoors_Driver_Splitter
+	HatchbackDoors_CoDriver_Splitter
+	HatchbackHood_Splitter
+	HatchbackTrunk_Splitter
+	HatchbackWheel
+	HatchbackWheel
+	HatchbackWheel
+	HatchbackWheel
+	
+<VehicleParts> OffroadHatchback_NVA_Medic		// Vehicle Classname
+	SparkPlug						// Classname of Item to attach when Vehicle gets bought
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	HatchbackDoors_Driver_NVA_Medic
+	HatchbackDoors_CoDriver_NVA_Medic
+	HatchbackHood_NVA_Medic
+	HatchbackTrunk_NVA
+	HatchbackWheel
+	HatchbackWheel
+	HatchbackWheel
+	HatchbackWheel
+
+<VehicleParts> OffroadHatchback_VoPo
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	HatchbackDoors_Driver_VoPo
+	HatchbackDoors_CoDriver_VoPo
+	HatchbackHood_VoPo
+	HatchbackTrunk_VoPo
+	HatchbackWheel
+	HatchbackWheel
+	HatchbackWheel
+	HatchbackWheel
+
+<VehicleParts> brd_pol_Hatchback_02
+	SparkPlug	
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	brd_pol_Hatchback_02_Door_1_1
+	brd_pol_Hatchback_02_Door_1_2
+	brd_pol_Hatchback_02_Door_2_1
+	brd_pol_Hatchback_02_Door_2_2
+	brd_pol_Hatchback_02_Hood
+	brd_pol_Hatchback_02_Trunk
+	Hatchback_02_Wheel
+	Hatchback_02_Wheel
+	Hatchback_02_Wheel
+	Hatchback_02_Wheel
+	
+<VehicleParts> BW_Truck_Covered_Camo	
+	TruckBattery
+	HeadlightH7
+	HeadlightH7
+	BW_Truck_01_Door_1_1_Camo
+	BW_Truck_01_Door_2_1_Camo
+	BW_Truck_Hood_Camo
+	Truck_01_Wheel
+	Truck_01_Wheel
+	Truck_01_WheelDouble
+	Truck_01_WheelDouble
+	Truck_01_WheelDouble
+	Truck_01_WheelDouble
+	
+<VehicleParts> NVA_Truck_Cargo_olive	
+	TruckBattery
+	HeadlightH7
+	HeadlightH7
+	NVA_Truck_01_Door_1_1_Olive
+	NVA_Truck_01_Door_2_1_Olive
+	NVA_Truck_Hood_Olive
+	Truck_01_Wheel
+	Truck_01_Wheel
+	Truck_01_WheelDouble
+	Truck_01_WheelDouble
+	Truck_01_WheelDouble
+	Truck_01_WheelDouble
+
+<VehicleParts> WH_Truck_Cargo_splitter	
+	TruckBattery
+	HeadlightH7
+	HeadlightH7
+	WH_Truck_01_Door_1_1_Splitter
+	WH_Truck_01_Door_2_1_Splitter
+	WH_Truck_Hood_Splitter
+	Truck_01_Wheel
+	Truck_01_Wheel
+	Truck_01_WheelDouble
+	Truck_01_WheelDouble
+	Truck_01_WheelDouble
+	Truck_01_WheelDouble	

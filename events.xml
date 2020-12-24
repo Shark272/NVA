@@ -1,0 +1,43 @@
+<!-- go to the area of the code in your event.xml and replace it  -->
+    <event name="VehicleNVAOffroadHatchback">
+        <nominal>10</nominal>
+        <min>7</min>
+        <max>13</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+			<child lootmax="0" lootmin="0" max="5" min="3" type="OffroadHatchback_NVA"/>
+			<child lootmax="0" lootmin="0" max="5" min="3" type="OffroadHatchback_NVA_Medic"/>
+			<child lootmax="0" lootmin="0" max="5" min="3" type="OffroadHatchback_camo_poly"/>
+			<child lootmax="0" lootmin="0" max="5" min="3" type="OffroadHatchback_camo"/>
+			<child lootmax="0" lootmin="0" max="5" min="3" type="OffroadHatchback_VoPo"/>
+			<child lootmax="0" lootmin="0" max="5" min="3" type="OffroadHatchback_Splitter"/>
+			<child lootmax="0" lootmin="0" max="5" min="3" type="brd_pol_Hatchback_02"/>			
+        </children>
+    </event>
+    <event name="NVAVehicleTruck01">
+        <nominal>15</nominal>
+        <min>10</min>
+        <max>25</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="BW_Truck_Covered_Camo"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="NVA_Truck_Cargo_olive"/>
+			<child lootmax="0" lootmin="0" max="5" min="3" type="WH_Truck_Cargo_splitter"/>
+        </children>
+    </event>	

@@ -22,7 +22,7 @@
 			<child lootmax="0" lootmin="0" max="5" min="3" type="brd_pol_Hatchback_02"/>			
         </children>
     </event>
-    <event name="NVAVehicleTruck01">
+    <event name="VehicleNVATruck01">
         <nominal>15</nominal>
         <min>10</min>
         <max>25</max>

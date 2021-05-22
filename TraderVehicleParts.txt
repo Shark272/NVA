@@ -145,4 +145,18 @@
 	Truck_01_WheelDouble
 	Truck_01_WheelDouble
 	Truck_01_WheelDouble
+	Truck_01_WheelDouble
+
+<VehicleParts> Truck_Cargo_wooden	
+	TruckBattery
+	HeadlightH7
+	HeadlightH7
+	Truck_01_Door_1_1_wooden
+	Truck_01_Door_2_1_wooden
+	Truck_Hood_wooden
+	Truck_01_Wheel
+	Truck_01_Wheel
+	Truck_01_WheelDouble
+	Truck_01_WheelDouble
+	Truck_01_WheelDouble
 	Truck_01_WheelDouble	

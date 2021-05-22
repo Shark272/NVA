@@ -39,5 +39,6 @@
             <child lootmax="0" lootmin="0" max="5" min="3" type="BW_Truck_Covered_Camo"/>
             <child lootmax="0" lootmin="0" max="5" min="3" type="NVA_Truck_Cargo_olive"/>
 			<child lootmax="0" lootmin="0" max="5" min="3" type="WH_Truck_Cargo_splitter"/>
+			<child lootmax="0" lootmin="0" max="5" min="3" type="Truck_Cargo_wooden"/>
         </children>
     </event>	

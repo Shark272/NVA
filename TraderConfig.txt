@@ -25,6 +25,12 @@
 		DDR_Rindergulasch,		*,		100,	50
 		DDR_ImNu,				*,		100,	50
 		DDR_Trinkfix,			*,		100,	50		
+		NVA_Schmalzfleisch,		*,		 55,	25
+		NVA_Leberwurst,			*,		 55,	25
+		NVA_Rotwurst,			*,		 55,	25
+		NVA_Jagdwurst,			*,		 55,	25
+		ddr_Salzsticks,			*,		 55,	25
+		BRD_Haribo,				*,		 55,	25
 
 	<Category> NVA Flags
 		NVA_Flag_West_Germany,		*,		500,	250
@@ -44,6 +50,17 @@
 		NVA_Flag_JP,				*,		500,	250		
 		NVA_Flag_fschjgbtl272,		*,		500,	250
 		NVA_Flag_Shark272,			*,		500,	250
+
+	<Category> NVA Armbends
+		NVA_Armband_FschJg,			*,		50,		25
+		NVA_Armband_NVA,			*,		50, 	25		
+		NVA_Armband_VoPo,			*,		50, 	25
+		NVA_Armband_VoPo_help,		*,		50, 	25
+		NVA_Armband_Combatgroup,	*,		50, 	25	
+		NVA_Armband_NVA_Reg,		*,		50, 	25
+		NVA_Armband_NVA_UvD,		*,		50, 	25
+		NVA_Armband_NVA_GvD,		*,		50, 	25
+		NVA_Armband_BW_FJ,			*,		50, 	25
 		
 	<Category> Containers
 		BW_Barrel_Fleck,		M,		3500,	750
@@ -120,7 +137,8 @@
 		WSS_MilitaryBelt_Summer,		*,		50,		25
 		WSS_MilitaryBelt_Winter,		*,		50,		25
 		NVA_SmershVest_Einstrich,		*,		150,	75
-		NVA_SmershVest_Feld,			*,		150,	75		
+		NVA_SmershVest_Feld,			*,		150,	75
+		NVA_SmershVest_Panza,			*,		150,	75		
 		BW_SmershVest_Fleck,			*,		150,	75
 		BW_New_SmershVest_Polygon,		*,		150,	75
 		WSS_SmershVest_Feld,			*,		150,	75
@@ -128,7 +146,8 @@
 		WSS_SmershVest_Summer,			*,		150,	75
 		WSS_SmershVest_Winter,			*,		150,	75		
 		NVA_SmershBag_Einstrich,		*,		120,	55
-		NVA_SmershBag_Feld,				*,		120,	55		
+		NVA_SmershBag_Feld,				*,		120,	55
+		NVA_SmershBag_Panza,			*,		120,	55		
 		BW_SmershBag_Fleck,				*,		120,	55
 		BW_New_SmershBag_Polygon,		*,		120,	55
 		WSS_SmershBag_Feld,				*,		120,	55
@@ -244,6 +263,7 @@
 		BW_Truck_Covered_Camo,		V,		35000,	12500
 		NVA_Truck_Cargo_olive,		V,		35000,	12500
 		WH_Truck_Cargo_splitter,	V,		35000,	12500
+		Truck_Cargo_wooden,			V,		35000,	12500
 
 	<Category> Customs Vehicle Parts
 		HatchbackDoors_Driver_NVA,		*,		450,	160
@@ -289,6 +309,9 @@
 		NVA_Truck_01_Door_2_1_Olive_Medic,	*,		450,	225
 		WH_Truck_01_Door_1_1_Splitter,		*,		450,	225
 		WH_Truck_01_Door_2_1_Splitter,		*,		450,	225
-		BW_Truck_Hood_Camo,			*,		400,	200
-		NVA_Truck_Hood_Olive,		*,		400,	200
-		WH_Truck_Hood_Splitter,		*,		400,	200												
+		Truck_01_Door_1_1_wooden,			*,		450,	225
+		Truck_01_Door_2_1_wooden,			*,		450,	225
+		BW_Truck_Hood_Camo,					*,		400,	200
+		NVA_Truck_Hood_Olive,				*,		400,	200
+		WH_Truck_Hood_Splitter,				*,		400,	200
+		Truck_Hood_wooden,					*,		400,	200
